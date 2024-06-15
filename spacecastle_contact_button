@@ -7,13 +7,14 @@
 
   <style>
     :root {
-      --my-color:#00acff;
-      --my-color-accent:#0487c7;
+      --my-color:#1C201F;
+      --my-color-accent:#8C959E;
       --black: #3c3c3c;
-      --black-accent: #2d2d2d;
+      --black-accent: #8C959E;
       --blue: #809bce;
       --blue-accent: #5c6f94;
       --purple: #8a508f;
+      
       --purple-accent: #5d3661;
       --mint: #b8e0d4;
       --mint-accent: #8ba89f;
@@ -45,10 +46,11 @@
 
     .btn {
       text-align: center;
-      color: #ffffff;
-      font-family: 'Helvetica';
+      color: #F3BD1C;
+      font-family: 'Arial';
       display: inline-block;
       margin: 10px;
+      
     }
 
     .my-color {
@@ -235,8 +237,8 @@
     }
 
     .large {
-      padding: 15px 60px;
-      font-size: 18px;
+      padding: 15px 30px;
+      font-size: 26px;
     }
   </style>
 
